@@ -1,5 +1,7 @@
 # TSDX React User Guide
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/muhrusdi/design-system.svg)](https://greenkeeper.io/)
+
 Congrats! You just saved yourself hours of work by bootstrapping this project with TSDX. Let’s get you oriented with what’s here and how to use it.
 
 > This TSDX setup is meant for developing React components (not apps!) that can be published to NPM. If you’re looking to build an app, you should use `create-react-app`, `razzle`, `nextjs`, `gatsby`, or `react-static`.
